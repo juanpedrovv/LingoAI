@@ -17,7 +17,9 @@ Nevertheless, I believe that the technology I’ve developed can extend to many 
 
 I took this audio from the "Creativo" YouTube Channel : https://www.youtube.com/shorts/bstmWS7hnHU
 
-This is the orginal audio:
+I selected this audio primarily due to the speaker's exceptionally expressive voice features, which are not commonly found. Even in this case, I believe Lingo stands out compared to other Text-to-Speech (TTS) and Translation TTS models. 
+
+This is the original audio:
 
 https://github.com/juanpedrovv/LingoAI/assets/83739305/1ec2e6f7-bfe1-45dd-b037-43155c002980
 
