@@ -12,3 +12,7 @@ Lingo is tailored for content creators who wish to increase their revenue by rea
 Nevertheless, I believe that the technology I’ve developed can extend to many more sectors. My mission is to enable everyone to access educational audiovisual content by breaking the language barrier.
 
 ## Ready to see Lingo in action?
+
+### "La historia del Tequila Defrente"
+
+Recuperado del canal de YouTube Creativo : https://www.youtube.com/shorts/bstmWS7hnHU
