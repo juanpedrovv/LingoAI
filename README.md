@@ -16,3 +16,8 @@ Nevertheless, I believe that the technology I’ve developed can extend to many 
 ### "La historia del Tequila Defrente"
 
 Recuperado del canal de YouTube Creativo : https://www.youtube.com/shorts/bstmWS7hnHU
+
+
+https://github.com/juanpedrovv/LingoAI/assets/83739305/08251ea0-6490-4312-9e58-711721d9a5f8
+
+
