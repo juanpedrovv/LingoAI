@@ -17,7 +17,12 @@ Nevertheless, I believe that the technology I’ve developed can extend to many 
 
 Recuperado del canal de YouTube Creativo : https://www.youtube.com/shorts/bstmWS7hnHU
 
+This is the orginal audio:
 
+For the moment I have two proposals. Here's the Lingo magic: 
 https://github.com/juanpedrovv/LingoAI/assets/83739305/08251ea0-6490-4312-9e58-711721d9a5f8
+
+And this is the second version, where i used more samples. Which version do you think is better?
+https://github.com/juanpedrovv/LingoAI/assets/83739305/ad24f9e3-7edd-40f1-89ad-af34053c8733
 
 
